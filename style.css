@@ -89,6 +89,7 @@ img {
     font-size: 4rem;
     margin-bottom: 0;
     color: var(--light);
+    text-shadow: var(--shadow);
 }
 
 .showcase p {
@@ -212,3 +213,4 @@ footer {
         display: block;
     }
 }
+/* -------------------- */
